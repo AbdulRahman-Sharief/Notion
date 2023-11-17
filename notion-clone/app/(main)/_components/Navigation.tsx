@@ -25,8 +25,10 @@ import { Item } from "./item";
 import { toast } from "sonner";
 import { DocumentList } from "./document-list";
 import { TrashBox } from "./trash-box";
+import { useSearch } from "@/hooks/use-search";
 
 const Navigation = () => {
+  const search = useSearch();
   const pathname = usePathname();
   const isMobile = useMediaQuery("(max-width:760px)");
   const create = useMutation(api.documents.create);
@@ -128,7 +130,7 @@ const Navigation = () => {
             label="Search"
             icon={Search}
             isSearch={true}
-            onClick={() => {}}
+            onClick={search.onOpen}
           />
           <Item label="Settings" icon={Settings} onClick={() => {}} />
           <Item onClick={handleCreate} label="New page" icon={PlusCircle} />
