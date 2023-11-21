@@ -37,12 +37,6 @@ This repository contains the code for Jotion, a fullstack Notion clone built wit
 
 **Node version 18.x.x**
 
-### Cloning the repository
-
-```shell
-git clone https://github.com/PHANTOMGOD2OP/JOTION.git
-```
-
 ### Install packages
 
 ```shell
