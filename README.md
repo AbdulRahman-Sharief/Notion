@@ -4,30 +4,34 @@
 
 
 
-This is a repository for Fullstack Notes App: Next.js 13, React, Convex, Tailwind |
+
+This repository contains the code for Jotion, a fullstack Notion clone built with Next.js 13, React, Convex, and Tailwind. The project includes a variety of features to enhance your note-taking and collaboration experience
 
 ![Notion Clone](https://github.com/AbdulRahman-Sharief/Notion/blob/main/jotion%202.png)
 ![Notion Clone](https://github.com/AbdulRahman-Sharief/Notion/blob/main/jotion%203.png)
 
-Key Features:
+## Key Features
 
-- Real-time database  🔗 
-- Notion-style editor 📝 
-- Light and Dark mode 🌓
-- Infinite children documents 🌲
-- Trash can & soft delete 🗑️
-- Authentication 🔐 
-- File upload
-- File deletion
-- File replacement
-- Icons for each document (changes in real-time) 🌠
-- Expandable sidebar ➡️🔀⬅️
-- Full mobile responsiveness 📱
-- Publish your note to the web 🌐
-- Fully collapsable sidebar ↕️
-- Landing page 🛬
-- Cover image of each document 🖼️
-- Recover deleted files 🔄📄
+- 🔄 **Real-time Database:** Keep your data synchronized across users in real-time.
+- ✍️ **Notion-Style Editor:** Enjoy a familiar editing interface inspired by Notion.
+- 🌓 **Light and Dark Mode:** Choose between light and dark themes for a comfortable reading experience.
+- 🌐 **Infinite Children Documents:** Create a hierarchical structure with unlimited child documents.
+- 🗑️ **Trash Can & Soft Delete:** Safely remove and recover your documents with soft delete functionality.
+- 🔐 **Authentication:** Secure your data with user authentication.
+- 📤 **File Management:**
+  - File Upload
+  - File Deletion
+  - File Replacement
+
+- 🖼️ **Icons for Each Document:** Experience dynamic real-time icon changes for each document.
+- 📂 **Expandable Sidebar:** Easily navigate your workspace with an expandable sidebar.
+- 📱 **Full Mobile Responsiveness:** Access Jotion seamlessly on various devices.
+- 🌐 **Publish to the Web:** Share your notes with the world by publishing them to the web.
+- ⬅️ **Fully Collapsible Sidebar:** Maximize your workspace with a fully collapsible sidebar.
+- 🏠 **Landing Page:** Welcome users with a landing page for a smooth onboarding experience.
+- 🌅 **Cover Image for Each Document:** Personalize your documents with cover images.
+- ↩️ **Recover Deleted Files:** Restore accidentally deleted files from the trash.
+
 
 ### Prerequisites
 
