@@ -1,13 +1,13 @@
 # Fullstack Notes App: Next.js 13, React, Convex, Tailwind |
 
 ![Notion Clone](https://github.com/AbdulRahman-Sharief/Notion/blob/main/jotion%201.png)
-![Notion Clone](https://github.com/AbdulRahman-Sharief/Notion/blob/main/jotion%202.png)
-![Notion Clone](https://github.com/AbdulRahman-Sharief/Notion/blob/main/jotion%203.png)
+
 
 
 This is a repository for Fullstack Notes App: Next.js 13, React, Convex, Tailwind |
 
-
+![Notion Clone](https://github.com/AbdulRahman-Sharief/Notion/blob/main/jotion%202.png)
+![Notion Clone](https://github.com/AbdulRahman-Sharief/Notion/blob/main/jotion%203.png)
 
 Key Features:
 
